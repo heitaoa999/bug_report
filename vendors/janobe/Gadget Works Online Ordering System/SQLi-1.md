@@ -2,8 +2,6 @@
 
 BUG_Author: heitaoa999
 
-Website source address:https://www.sourcecodester.com/php/13093/gadget-works-online-ordering-system-phpmysqli.html
-
 Vulnerability File: /philosophy/admin/login.php
 
 POST parameter 'user_email' exists SQL injection vulnerability
