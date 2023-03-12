@@ -1,5 +1,3 @@
-# Gadget Works Online Ordering System v1.0 has SQL injection
-
 BUG_Author: heitaoa999
 
 Vulnerability File: /philosophy/admin/login.php
