@@ -1,5 +1,3 @@
-# Gadget Works Online Ordering System v1.0 has Stored Cross Site Scripting
-
 BUG_Author: heitaoa999
 
 Vulnerability url: /philosophy/admin/user/controller.php?action=add
