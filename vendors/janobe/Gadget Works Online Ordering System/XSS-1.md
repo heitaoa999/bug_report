@@ -2,8 +2,6 @@
 
 BUG_Author: heitaoa999
 
-Website source address:https://www.sourcecodester.com/php/13093/gadget-works-online-ordering-system-phpmysqli.html
-
 Vulnerability url: /philosophy/admin/user/controller.php?action=add
 
 POST parameter 'U_NAME' exists Stored Cross Site Scripting
